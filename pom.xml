@@ -36,7 +36,7 @@
           <workers>1</workers> 
           <uri>https://anypoint.mulesoft.com</uri>; 
           <applicationName>deployement1</applicationName> 
-          
+          <objectStoreV2>true</objectStoreV2>
         </cloudHubDeployment>
 				</configuration>
 			</plugin>
