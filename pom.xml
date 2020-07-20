@@ -28,7 +28,7 @@
 				<configuration>
 				<cloudHubDeployment> 
           <muleVersion>4.2.2</muleVersion> 
-          <username>hermonoss1</username> 
+          <username>hermioss1</username> 
           <password>Mom,759199</password> 
           <environment>Sandbox</environment> 
           <!-- <region>eu-central-1</region>  -->
